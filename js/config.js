@@ -6,7 +6,7 @@ var lang = window.navigator.language;
 //change weather params here:
 //units: metric or imperial
 var weatherParams = {
-    'q':'Baarn,Netherlands',
+    'q':'Blacksburg, Virginia, USA',
     'units':'metric',
     'lang':lang
 };
